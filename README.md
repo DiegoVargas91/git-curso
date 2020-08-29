@@ -1,2 +1,2 @@
 # git-curso
-este es un rpyecto de prueba con git
+este es un proyecto de prueba con git
